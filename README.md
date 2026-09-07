@@ -1,1 +1,1 @@
-# Sample-Code
+Personal, read-only script that counts stock ticker mentions in a few finance subreddits and stores daily counts in a local SQLite table. It never posts, comments, votes, or messages, and keeps no post text. See ticker_mentions.py.
